@@ -17,5 +17,5 @@ game of life
 (9) https://stackoverflow.com/questions/23609507/pause-program-execution-for-5-seconds-in-c
 (10) https://www.youtube.com/watch?v=NIGhjrWLWBo
 
-5. make realclean --> make all --> ./assignment3
+5. make realclean --> make all --> ./assignment3.exe
   user input is prompted on the concole but no command line parameters
