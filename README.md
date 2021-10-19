@@ -4,7 +4,9 @@ game of life
 1. Sophie Pelton -- 2370862 -- spelton@chapman.edu -- CPSC350-01 -- Assignment 3
 2.  board.cpp -- board.h -- MapProcess.h -- MapProcess.cpp -- game.h -- game.cpp -- mode.h -- mode.cpp -- main.cpp -- Makefile -- REAME.md
 3. no known compile errors. 
-4. references used: 
+4. Nathan Nguyen (2370739) was my partner for this project
+
+references used: 
 
 (1) https://stackoverflow.com/questions/12830197/declare-a-multidimentional-array-without-the-size
 (2) https://stackoverflow.com/questions/8767166/passing-a-2d-array-to-a-c-function
